@@ -6,6 +6,12 @@
  * 
  */
 
+// 1. Ask user for : comma-separated list of first names (no spaces)
 
+
+// 2. Split to spring array
+
+
+// 3. Loop through array and print hello name to console for each person
 
 
